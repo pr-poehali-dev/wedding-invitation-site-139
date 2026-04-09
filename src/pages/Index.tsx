@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 import Icon from "@/components/ui/icon";
 
-const HERO_IMAGE = "https://cdn.poehali.dev/projects/1db1e3f0-43d3-4887-8385-f80471998dc0/files/11cf88bd-2483-4b00-8148-0fc3eab51258.jpg";
+const HERO_IMAGE = "https://cdn.poehali.dev/projects/1db1e3f0-43d3-4887-8385-f80471998dc0/bucket/66a5a030-7982-4eb1-a518-10488ea9d30a.jpg";
 
 const PLAYLIST = [
   { title: "Perfect", artist: "Ed Sheeran", duration: "4:23" },
