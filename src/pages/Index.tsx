@@ -72,7 +72,7 @@ export default function Index() {
           </a>
         ))}
         <span className="text-[10px] tracking-[0.2em] uppercase text-[#8a7d6e] sm:hidden">
-          А & М · 14.09.2026
+          В & Г · 14.09.2026
         </span>
       </nav>
 
@@ -91,7 +91,7 @@ export default function Index() {
             className="text-[72px] md:text-[110px] leading-none font-light text-[#2c2c2c] mb-2"
             style={{ fontFamily: "'Cormorant Garamond', serif" }}
           >
-            Анна
+            Вероника
           </h1>
           <p
             className="text-[48px] md:text-[72px] font-light italic text-[#b8a898]"
@@ -103,7 +103,7 @@ export default function Index() {
             className="text-[72px] md:text-[110px] leading-none font-light text-[#2c2c2c]"
             style={{ fontFamily: "'Cormorant Garamond', serif" }}
           >
-            Михаил
+            Глеб
           </h1>
           <p className="text-[11px] tracking-[0.3em] uppercase text-[#8a7d6e] mt-8">
             14 сентября 2026
@@ -374,7 +374,7 @@ export default function Index() {
           className="text-3xl font-light italic text-[#b8a898] mb-4"
           style={{ fontFamily: "'Cormorant Garamond', serif" }}
         >
-          Анна &amp; Михаил
+          Вероника &amp; Глеб
         </p>
         <p className="text-[9px] tracking-[0.3em] uppercase text-[#c4b9ac]">14 · 09 · 2026</p>
       </footer>
